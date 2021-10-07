@@ -1,6 +1,6 @@
 # フォルダ
 ## win-x64 windowsパソコン用
-## osx-x64 macパソコン用（M1も含め）
+## osx-x64 macパソコン用（M1も含む）
 ## linux-x64 Intel用linux
 ## linux-arm 主にラズパイ用linux
 
