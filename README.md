@@ -24,8 +24,8 @@
 	# win-x64の場合
 	スタート→コントロールパネルを検索→システムとセキュリティ→システム→システムの詳細設定→システムの環境変数→pathを選択→編集→新規
 # コマンドの形式
-	FreeVideoEditor コード エンコード場所
-	FreeVideoEditor コード エンコード場所 ビデオビットレート
-	FreeVideoEditor コード エンコード場所 ビデオビットレート オーディオビットレート
+	FreeVideoEncoder コード エンコード場所
+	FreeVideoEncoder コード エンコード場所 ビデオビットレート
+	FreeVideoEncoderコード エンコード場所 ビデオビットレート オーディオビットレート
 # バグについて
 	Issuesで報告してください
